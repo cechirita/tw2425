@@ -10,7 +10,7 @@
 
 ## exemplu layout pagină
 
-Descărcați fișierele `layout.html` și `layout-style.css` din directorul `resources`. Sarcina voastră principală este să modificați aceste fișiere. Citiți cu atenție fișierele și rezolvați exercițiile de mai jos, urmând [planul]() lui Felonious Gru.
+Descărcați fișierele `layout.html` și `layout-style.css` din directorul `resources`. Sarcina voastră principală este să modificați aceste fișiere. Citiți cu atenție fișierele și rezolvați exercițiile de mai jos, urmând [planul](https://github.com/cechirita/tw2425/blob/main/Laborator%204/resources/images/minion.jpg) lui Felonious Gru.
 
 3. Completați regulile CSS din fișierul `layout-style.css`, înlocuind simbolul `?` cu valori corespunzătoare, astfel încât pagina să arate ca în imaginea de mai jos:
 
