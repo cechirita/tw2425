@@ -2,7 +2,7 @@
  
 Pentru componenta de proiect a cursului, fiecare student trebuie să dezvolte un website.  
 Proiectul va fi realizat individual și va avea două părți:  
-1. HTML + CSS + responsive (predare și evaluare în timpul laboratorului 7, săptămâna 7)  
+1. HTML + CSS + responsive (predare și evaluare în timpul laboratorului 7, săptămâna 8)  
 2. JavaScript (predare și evaluare la ultimul laborator)
 
 Veți putea alege tema website-ului, dar va trebui să respectați o listă de cerințe generale (vezi mai jos).
