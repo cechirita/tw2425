@@ -42,7 +42,7 @@ Jocul nostru rulează momentan într-o buclă, fără să se termine. Chiar dac�
 - mesajul *"Remiză!"* în cazul unei remize.
 Continuați jocul altfel.
 
-12. E momentul să primim în joc un adversar: calculatorul. Scrieți o funcție `computer-move` care generează aleator, folosind `Math.random()`, o poziție din tabla de joc corespunzătoare următoarei poziții de jucat de către calculator. Verificați dacă poziția este validă folosind funcția `valid` de la exercițiul 7. Dacă poziția este validă, completați tabla de joc în mod corespunzător. Altfel, apelați din nou funcția `computer-move`. 
+12. E momentul să primim în joc un adversar: calculatorul. Scrieți o funcție `computer_move` care generează aleator, folosind `Math.random()`, o poziție din tabla de joc corespunzătoare următoarei poziții de jucat de către calculator. Verificați dacă poziția este validă folosind funcția `valid` de la exercițiul 7. Dacă poziția este validă, completați tabla de joc în mod corespunzător. Altfel, apelați din nou funcția `computer_move`. 
 
 13. Integrați codul scris pentru exercițiul de mai sus în așa fel încât jucătorul și calculatorul să facă alternativ câte o mișcare, iar jocul să se termine atunci când este atinsă o configurație de câștig ori remiză. 
 
